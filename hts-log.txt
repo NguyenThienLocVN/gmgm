@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 08 Jul 2020 23:10:01 at https://mogihomnay.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mogihomnay.com/ -O1 "C:\xampp\htdocs\gmgm\gmgm" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:13:14	Error: 	"Not Found" (404) at link https://mogihomnay.com/img/loading.gif (from https://mogihomnay.com/index.amp.html)
+23:13:23	Error: 	"Not Found" (404) at link https://mogihomnay.com/css/img/loading.gif (from https://mogihomnay.com/css/css/mixed.css?v=1592380126)
+23:16:06	Error: 	"Not Found" (404) at link https://mogihomnay.com/article/counter (from https://mogihomnay.com/giai-ma-giac-mo/mo-thay-ong-gia-noel-giang-sinh-la-diem-gi-danh-so-may.html)
+23:18:54	Error: 	"Not Found" (404) at link https://mogihomnay.com/amp/images/ics.png (from https://mogihomnay.com/amp/giai-ma-giac-mo/mo-thay-ong-gia-noel-giang-sinh-la-diem-gi-danh-so-may.html)
+23:18:54	Error: 	"Not Found" (404) at link https://mogihomnay.com/amp/img/loading.gif (from https://mogihomnay.com/amp/giai-ma-giac-mo/mo-thay-ong-gia-noel-giang-sinh-la-diem-gi-danh-so-may.html)
+23:20:48	Error: 	"Not Found" (404) at link https://mogihomnay.com/GET (from https://mogihomnay.com/xsmb-sxmb-xshn-xstd-ket-qua-xo-so-mien-bac.html)
+23:22:33	Error: 	"Error when decompressing" (-1) at link https://mogihomnay.com/so-mo (from https://mogihomnay.com/giai-ma-giac-mo/mo-thay-dam-ma-danh-con-gi-nam-mo-thay-dam-tang-la-diem-gi.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 46 minutes 7 seconds : 1517 links scanned, 1509 files written (230177365 bytes overall) [219620159 bytes received at 79371 bytes/sec], 29037514 bytes transferred using HTTP compression in 591 files, ratio 30%, 3.8 requests per connection
+(7 errors, 0 warnings, 0 messages)
